@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LessonTuit/app/src/main/res/drawable/ic__24like_99974.xml" value="0.240625" />
+        <entry key="..\:/LessonTuit/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.240625" />
+        <entry key="..\:/LessonTuit/app/src/main/res/drawable/style.xml" value="0.23148148148148148" />
+        <entry key="..\:/LessonTuit/app/src/main/res/drawable/style2.xml" value="0.23148148148148148" />
+        <entry key="..\:/LessonTuit/app/src/main/res/layout/activity_edit.xml" value="0.17222222222222222" />
+        <entry key="..\:/LessonTuit/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/LessonTuit/app/src/main/res/layout/activity_main2.xml" value="0.17222222222222222" />
+        <entry key="..\:/LessonTuit/app/src/main/res/layout/homework5_4.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

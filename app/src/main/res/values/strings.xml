@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LessonTuit</string>
+    <string name="text">LessonTuit</string>
+    <string name="edt1">Enter your name</string>
+</resources>

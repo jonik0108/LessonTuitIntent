@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="enter your name"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="#9A9696"
+        android:layout_margin="10dp"/>
+    <EditText
+        android:id="@+id/edt_number"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="enter your number"
+        android:textColor="@color/black"
+        android:inputType="number"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="#9A9696"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:background="@drawable/style"
+        android:id="@+id/txt_next"
+        android:text="NEXT"
+        android:gravity="center"
+
+        android:textColor="@color/white"
+        />
+
+
+
+</LinearLayout>
